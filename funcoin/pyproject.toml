@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "funcoin"
+version = "0.1.0"
+description = ""
+authors = ["1360253757 <1360253757@qq.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
